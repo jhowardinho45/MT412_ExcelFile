@@ -16,3 +16,4 @@ An updated version of Excel
 
 **How to get file?**
 
+Download as raw file after clicking on it.
