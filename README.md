@@ -17,4 +17,6 @@ An updated version of Excel
 
 **How to get file?**
 
+Click 'best-selling video games of all time.xlsx' and view raw
+
 Click on the file, click the three dots and select download as raw file.
